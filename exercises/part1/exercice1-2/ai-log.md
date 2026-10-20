@@ -1,0 +1,42 @@
+What I asked for:
+Write a code on how to apply for an ID Card in the Gambia in html code.
+It should have one h1 explaining the process, at least three h2 section showing what to do before you go, what to bring, At the office, After and at least two h3 subsection under on of the h2s.
+
+What I get :
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How to apply for a Gambian National ID</title>
+</head>
+<body>
+  <main>
+    <h1>How to apply for a Gambian National ID</h1>
+    <p>Gambian citizens aged 18 and over can apply for a National Identity Card through the Immigration Department. Prepare your citizenship documents before visiting.</p>
+
+    <h2>Before you apply</h2>
+    <p>Check that you are applying for the citizen ID card and that you can provide evidence of Gambian citizenship. The Immigration Department may interview you to verify your claim.</p>
+
+    <h2>What to bring</h2>
+    <p>Complete the citizen application form from the <a href="https://moi.gov.gm/downloads/">Ministry of Interior forms page</a> and bring a document that supports your citizenship claim.</p>
+
+    <h3>If you are a citizen by birth</h3>
+    <p>Bring a birth certificate, Gambian passport, voter’s card, Seyfo’s certificate, or village Alkalo’s certificate as proof of citizenship.</p>
+
+    <h3>If you became a citizen through registration or naturalisation</h3>
+    <p>Bring your certificate of registration or naturalisation to support your application.</p>
+
+    <h2>At the Immigration Department</h2>
+    <p>Submit your completed form and citizenship evidence at an Immigration Department office. Be ready for an interview and follow staff directions for your photograph and fingerprints.</p>
+
+    <h2>After you apply</h2>
+    <p>Ask the office how to check your application, when to collect the card, and what fee and payment method apply. Keep any receipt or reference they give you.</p>
+
+    <p>See the <a href="https://gid.gov.gm/id-card/">Immigration Department’s National ID guidance</a> for official requirements.</p>
+  </main>
+</body>
+</html>
+
+What I change:
+I change nothing, the code is perfect.

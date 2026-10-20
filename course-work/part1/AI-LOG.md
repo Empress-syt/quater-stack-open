@@ -1,4 +1,4 @@
- (1) Make me "about Me" profile page in HTML. It should have a photo of me, a heading and two paragraph about me and link it to learn more.
+ (1) Make me "about Me" profile page in HTML. It should have a photo of me, a heading and two  paragraph about me and link it to learn more.
 
 (2) Make me "Sally" profile page in HTML. It should have a photo of me, a heading and two paragraph about me and link it to learn more.
 True paragraph added because the first draft gave a generic lorem ipsum about me that was not true.
