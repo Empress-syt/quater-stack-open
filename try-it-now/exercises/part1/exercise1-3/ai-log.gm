@@ -1,0 +1,78 @@
+What I asked:
+Make me a tailor profile page in html.It should have one <h1> 
+with the business name,and a short paragraph saying what they 
+do and where they are. Three <h2> section grouping their services,
+at least one <ol> and one <ul> and justify each choice and at least 
+nested list showing a category with items inside it.
+
+
+What I get:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sally's Fashion & Tailoring - Sukuta</title>
+</head>
+<body>
+
+<header>
+<h1>Sally's Fashion & Tailoring</h1>
+<p>We are a small tailoring shop in Sukuta, West Coast Region, near Sukuta Traffic Light, opposite Sukuta Health Center. We make African dresses, school uniforms, and do quick repairs for men, women and children.</p>
+</header>
+
+<main>
+<section>
+<h2>1. Tailoring Services</h2>
+<!-- I chose ul because these services are in no particular order, reordering them does not change meaning -->
+<ul>
+<li>African Print Dresses - D800 to D1500</li>
+<li>School Uniforms - D500</li>
+<li>Men's Kaftan - D1200</li>
+<li>Women's Abaya - D1000</li>
+</ul>
+</section>
+
+<section>
+<h2>2. Alteration & Repair Process</h2>
+<!-- I chose ol because this is a sequence that must happen in order, if you reorder it the process breaks -->
+<ol>
+<li>Customer brings clothes and explains what to fix</li>
+<li>We take measurements and pin the alteration</li>
+<li>We sew and press the garment</li>
+<li>Customer tries it and collects</li>
+</ol>
+</section>
+
+<section>
+<h2>3. Services & Prices</h2>
+<!-- I chose ul because this price list is sorted cheapest-first for reading, but sorted is not ordered - nothing breaks if reordered -->
+<ul>
+<li>Trouser hemming - D50
+<ul>
+<li>Jeans</li>
+<li>School trousers</li>
+<li>Office trousers</li>
+</ul>
+</li>
+<li>Zip replacement - D100</li>
+<li>Dress shortening - D150</li>
+<li>Full outfit tailoring - D800 and above</li>
+</ul>
+</section>
+</main>
+
+<footer>
+<p>Location: Sukuta, WCR, The Gambia | Tel: +220 1234567 | Open Mon-Sat 8am-7pm</p>
+</footer>
+
+</body>
+</html>
+
+
+What I change:
+I change the name of the business, the business location,
+the services they offer, and the prices.
+
+WHY:
+Because they are not the real information of the business.
