@@ -1,0 +1,77 @@
+WHAT I ASKED:
+
+The situation: a single sheet that gets printed and stuck on a wall, and followed by someone
+who is busy, tired, or in a hurry. 
+Safe use of a piece of equipment — a gas cylinder, 
+a generator, a chemical.
+What to do when the power comes back on.
+ 
+Requirements: 
+
+<h1> title, then a short paragraph saying who this is for and when they need it
+An 
+<h2> "What you need" with an unordered list
+An 
+<h2> "Steps" with an ordered list
+An 
+<h2> "If something goes wrong" with a paragraph
+Use each of these at least once, correctly:
+<strong> — on something that causes harm if ignored
+<em> — on a word whose stress changes the meaning of the sentence
+<abbr title="…"> — on every unit or acronym a reader might not know 
+ (PPE,KVA)
+Give a html code.
+
+WHAT I GOT:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Safe Gas Cylinder Use - Instructions</title>
+</head>
+<body>
+
+<h1>How to Safely Connect and Use a Gas Cylinder</h1>
+<p>This sheet is for kitchen staff and home users in Sukuta when connecting a new <abbr title="Liquefied Petroleum Gas">LPG</abbr> cylinder. Read it every time you change the cylinder.</p>
+
+<h2>What you need</h2>
+<ul>
+<li>1 full <abbr title="Liquefied Petroleum Gas">LPG</abbr> cylinder - 12 <abbr title="kilogram">kg</abbr></li>
+<li>Regulator and hose in good condition</li>
+<li>Soapy water for leak test</li>
+<li><abbr title="Personal Protective Equipment">PPE</abbr> - gloves</li>
+<li>Match or lighter - keep away until tested</li>
+</ul>
+
+<h2>Steps</h2>
+<ol>
+<li><strong>Turn the gas off at the old cylinder</strong>
+ before disconnecting the hose.</li>
+<li>Remove regulator from old cylinder and check rubber seal.</li>
+<li>Place new cylinder upright on flat ground, not near fire.</li>
+<li>Fix regulator firmly - you must hear a click.</li>
+<li>Open cylinder valve slowly, then test joints with soapy
+ water.</li>
+<li>If you see bubbles, close valve immediately and refix.</li>
+<li>Use <strong>2</strong> <abbr title="tablespoons">tbsp</abbr> of soapy water - <em>not</em> fire - to check for leaks.</li>
+<li>Light burner only after no leak is found.</li>
+</ol>
+
+<h2>If something goes wrong</h2>
+<p>If you smell gas strongly after closing the valve,
+ <strong>do not switch on any electrical appliance</strong>.
+  Open all windows and doors, leave the kitchen, and call the
+   supplier. Do not try to fix a leaking cylinder with tape.
+    If flame is yellow and smoky, close the cylinder and
+     clean the burner.</p>
+
+</body>
+</html>
+
+WHAT I CHANGE:
+I did not change anything.
+
+WHY:
+Because the code is good and it has all the requirements needed.
